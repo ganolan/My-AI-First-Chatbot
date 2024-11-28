@@ -8,6 +8,6 @@ This is a template to help you start building your first LLM powered chatbot
 
 1. Open a Terminal window in your code editor and run the following command `pip install cohere`
 
-1. [Follow the activities in 'Module 3: Text Generation' of the LLMU course on Cohere.com]([https://docs.cohere.com/docs/intro-deployment](https://cohere.com/llmu)) to complete the code and create your first LLM powered chatbot.
+1. [Follow the activities in 'Module 3: Text Generation' of the LLMU course on Cohere.com](https://cohere.com/llmu) to complete the code and create your first LLM powered chatbot.
 
 2. Create a Pull Request to submit your work. 

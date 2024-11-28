@@ -1,4 +1,4 @@
-# My First Chatbot
+# My First AI Chatbot
 This is a template to help you start building your first LLM powered chatbot
 
 ## Instructions
